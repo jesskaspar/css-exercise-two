@@ -1,0 +1,77 @@
+body {
+  background-color: #eaecee;
+  color: #34495e;
+  font-size: 16px;
+}
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  background: #fff url(bloc-logo.png) no-repeat top left;
+  width: 100%;
+}
+
+.medium-pic {
+  background: #fff url(instagram-pic.jpg) no-repeat middle;
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+  text-decoration: none;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
+.title {
+  font-size: 36px;
+  line-height: 2.5em;
+}
+.sub-title {
+  font-size: 24px;
+}
+.story-text {
+  line-height: 1.75em;
+}
+.figcaption {
+  font-size: 12px;
+}
+.author {
+  font-style: italic;
+  line-height: 2.5em;
+}
+a {
+  text-decoration: none;
+}
+a:hover { color:#0070BC; } /* mouse over */
