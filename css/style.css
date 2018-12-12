@@ -1,6 +1,6 @@
 body {
-  background-color: #eaecee;
-  color: #34495e;
+  background-color: #ffffff;
+  color: #000000;
   font-size: 16px;
 }
 
@@ -75,3 +75,7 @@ a {
   text-decoration: none;
 }
 a:hover { color:#0070BC; } /* mouse over */
+
+p {
+  padding-bottom: 15px;
+}
