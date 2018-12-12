@@ -74,7 +74,7 @@ article {
 a {
   text-decoration: none;
 }
-a:hover { color:#0070BC; } /* mouse over */
+a:hover { color:#d3d3d3; } /* mouse over */
 
 p {
   padding-bottom: 15px;
